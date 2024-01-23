@@ -1,0 +1,22 @@
+.logo-image {
+  max-width: 100px;
+  margin-left: 50px;
+}
+.top-navigation {
+  background-color: #e8e8e8;
+}
+h2 {
+  color: red;
+}
+ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  justify-content: center;
+}
+li {
+  margin-right: 40px;
+}
+a {
+  text-decoration: none;
+}
