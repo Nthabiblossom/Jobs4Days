@@ -1,13 +1,3 @@
-.logo-image {
-  max-width: 100px;
-  margin-left: 50px;
-}
-.top-navigation {
-  background-color: #e8e8e8;
-}
-h2 {
-  color: red;
-}
 ul {
   display: flex;
   list-style: none;
@@ -19,4 +9,22 @@ li {
 }
 a {
   text-decoration: none;
+}
+.logo-image {
+  max-width: 100px;
+  margin-left: 50px;
+}
+.top-navigation {
+  background-color: #fff;
+}
+.bg-image {
+  width: 100%;
+  height: 500px;
+  background-image: url("/assets/Hero.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.picture-buttons {
+  max-height: fit-content;
+  max-width: 250px;
 }
